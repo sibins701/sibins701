@@ -1,8 +1,6 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=220&section=header&text=SIBIN%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%26%20Data%20Science%20Student&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:450000,100:FF0000&height=220&section=header&text=SIBIN%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%26%20Data%20Science%20Student&descAlignY=55&descSize=20"/>
 
 <br>
 
@@ -12,7 +10,7 @@
 
 ---
 
-# 🩸 About Me
+# 🩸 ABOUT ME
 
 ```text
 🎓 Computer Science & Data Science Student
@@ -24,24 +22,57 @@
 🚀 Building Real-World Projects
 ```
 
-> 🔥 "Code. Create. Learn. Repeat."
+> 🖤 **Learning. Building. Improving.**
 
 ---
 
-# ⚡ What I Do
+# ⚡ WHAT I DO
 
-| 🔴 Data Science    | ⚫ Development | 🔴 Database |
-| ------------------ | ------------- | ----------- |
-| Python             | HTML          | SQL         |
-| Data Analysis      | CSS           | PostgreSQL  |
-| Data Visualization | JavaScript    | MongoDB     |
-| Machine Learning   | Django        | Firebase    |
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## 📊 DATA SCIENCE
+
+🐍 Python
+📈 Data Analysis
+📊 Visualization
+🤖 Machine Learning
+
+</td>
+
+<td width="33%" align="center">
+
+## 💻 DEVELOPMENT
+
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+🐍 Django
+🔌 REST API
+
+</td>
+
+<td width="33%" align="center">
+
+## 🗄️ DATABASE
+
+💾 SQL
+🐘 PostgreSQL
+🍃 MongoDB
+🔥 Firebase
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ TECH STACK
 
-### 🔴 Programming
+### 👨‍💻 Programming
 
 <p align="left">
 
@@ -49,7 +80,7 @@
 
 </p>
 
-### ⚫ Data & Database
+### 📊 Data & Database
 
 <p align="left">
 
@@ -59,7 +90,7 @@
 
 </p>
 
-### 🔴 Frameworks & Tools
+### 🌐 Frameworks & Tools
 
 <p align="left">
 
@@ -69,23 +100,31 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🔥 FEATURED PROJECTS
 
-## 🔴 🏥 MediKiosk
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏥 MediKiosk
 
 ### AI Clinical History Assistant
 
-A healthcare-focused platform designed to collect structured patient information and present it through a doctor dashboard.
+A healthcare platform designed to connect patients and doctors by collecting structured patient information and presenting it through a doctor dashboard.
 
 **Tech Stack**
 
 `HTML` `CSS` `JavaScript` `Firebase`
 
----
+</td>
 
-## ⚫ 🛰️ DepthWizard
+<td width="50%">
 
-### Single-View Height Estimation & 3D Flythrough
+## 🛰️ DepthWizard
+
+### Single-View Height Estimation
 
 A computer vision project focused on estimating height/depth information from a single image and creating a 3D visualization experience.
 
@@ -93,11 +132,17 @@ A computer vision project focused on estimating height/depth information from a 
 
 `Python` `FastAPI` `Computer Vision`
 
----
+</td>
 
-## 🔴 🔄 SkillSwap
+</tr>
 
-### Peer-to-Peer Skill Exchange Platform
+<tr>
+
+<td width="50%">
+
+## 🔄 SkillSwap
+
+### Peer-to-Peer Skill Exchange
 
 A platform where users can teach skills they know and learn skills from other users.
 
@@ -105,47 +150,53 @@ A platform where users can teach skills they know and learn skills from other us
 
 `Python` `Django` `DRF` `PostgreSQL`
 
----
+</td>
 
-## ⚫ 🎓 CampusAI / Event Finder
+<td width="50%">
 
-### Campus Event Discovery Platform
+## 🎓 CampusAI
 
-A campus-focused platform designed to help students discover and interact with college events.
+### Event Finder
+
+A campus event discovery platform designed to help students discover and interact with college events.
 
 **Tech Stack**
 
-`Python` `Django` `REST API` `Database`
+`Python` `Django` `REST API`
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🧠 Currently Learning
+# 📚 CURRENTLY LEARNING
 
 <div align="center">
 
-🔴 **Python**
-⚫ **SQL**
-🔴 **Data Science**
-⚫ **Machine Learning**
-🔴 **Data Visualization**
-⚫ **Django**
-🔴 **REST APIs**
-⚫ **PostgreSQL**
-🔴 **Git & GitHub**
+🔴 `Python`
+🔴 `SQL`
+🔴 `Data Science`
+🔴 `Machine Learning`
+🔴 `Data Visualization`
+🔴 `Django`
+🔴 `REST APIs`
+🔴 `PostgreSQL`
+🔴 `Git & GitHub`
 
 </div>
 
 ---
 
-# 💼 Internship
+# 💼 INTERNSHIP
 
-## 🔬 Data Science Intern
-
-### Luminar Technolab
+## 🔬 Data Science Intern — Luminar Technolab
 
 Worked with Python and Data Science fundamentals through practical exercises and project-based learning.
 
-**Focus Areas**
+### Focus Areas
 
 * 🐍 Python Programming
 * 📊 Data Science Fundamentals
@@ -155,81 +206,87 @@ Worked with Python and Data Science fundamentals through practical exercises and
 
 ---
 
-# 🎓 Education
+# 🎓 EDUCATION
 
 ### B.Sc. Computer Science & Data Science
 
 **Nehru Arts and Science College**
-
-📍 Coimbatore, India
-
----
-
-# 🏆 Certifications
-
-🔴 Data Science Internship — Luminar Technolab
-
-⚫ Python — Spoken Tutorial
-
-🔴 SQL — Spoken Tutorial
-
-⚫ MongoDB
-
-🔴 Infosys Springboard
-
-⚫ AI for Beginners — HP LIFE
-
-🔴 BOORD
-
-⚫ Nasha Mukt Bharat Abhiyaan
+Coimbatore, India
 
 ---
 
-# 💡 Strengths
+# 🏆 CERTIFICATIONS
+
+| Certificate                     | Area                    |
+| ------------------------------- | ----------------------- |
+| 🔬 Luminar Technolab            | Data Science Internship |
+| 🐍 Spoken Tutorial              | Python                  |
+| 🗄️ Spoken Tutorial             | SQL                     |
+| 🍃 MongoDB                      | Database                |
+| 📘 Infosys Springboard          | Learning                |
+| 🤖 HP LIFE                      | AI for Beginners        |
+| 📜 BOORD                        | Certification           |
+| 🇮🇳 Nasha Mukt Bharat Abhiyaan | Awareness               |
+
+---
+
+# 💡 STRENGTHS
 
 <div align="center">
 
-| 🔴          | ⚫                  | 🔴               | ⚫               | 🔴            |
-| ----------- | ------------------ | ---------------- | --------------- | ------------- |
-| 🤝 Teamwork | 🧠 Problem Solving | ⚡ Quick Learning | 🔄 Adaptability | 👑 Leadership |
+🔥 **Problem Solving**
+🤝 **Teamwork**
+⚡ **Quick Learning**
+🔄 **Adaptability**
+👑 **Leadership**
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sibins701&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sibins701&show_icons=true&theme=dark&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibins701&layout=compact&theme=radical&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibins701&layout=compact&theme=dark&hide_border=true&title_color=FF0000&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GITHUB STREAK
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sibins701&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sibins701&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sibins701&theme=redical&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sibins701&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sibins701/sibins701/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
@@ -251,15 +308,18 @@ Worked with Python and Data Science fundamentals through practical exercises and
 
 <div align="center">
 
-## 🔴 CODE • CREATE • INNOVATE ⚫
+## 🖤 THANKS FOR VISITING MY PROFILE ❤️
 
 <img src="https://komarev.com/ghpvc/?username=sibins701&label=PROFILE%20VIEWS&color=FF0000&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=120&section=footer"/>
+**🚀 Code • Learn • Build • Repeat 🔥**
 
 </div>
 
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:450000,100:000000&height=120&section=footer"/>
 
+</div>
